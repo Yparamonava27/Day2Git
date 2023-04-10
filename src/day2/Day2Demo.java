@@ -15,5 +15,6 @@ public void teamInfo() {
 /**
 This is coming from Remote....
 */
-		
+	
+	String firstName = "John";
 }
