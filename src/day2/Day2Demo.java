@@ -19,4 +19,13 @@ This is coming from Remote....
 	String firstName1 = "John";
 	
 	String lastName = "Paramonava";
+	
+	
+	
+
+int age = 10;
+
+String firstName = "Yuliya";
+String teamName = "Team3";
+
 }
