@@ -17,4 +17,6 @@ This is coming from Remote....
 */
 	
 	String firstName1 = "John";
+	
+	String lastName = "Paramonava";
 }
